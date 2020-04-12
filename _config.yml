@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Max Hill"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I'm a strategy consultant and python developer in Atlanta."
+  bio    : "I'm a strategy consultant and python developer in Atlanta. I push the limits of what can be done to give my clients the best results possible."
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
