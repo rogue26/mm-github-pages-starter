@@ -9,6 +9,7 @@ tags:
   - data analysis
   - data visualization
 ---
+![alt text][logo]
 
 ```python
 def print_hi(name):
@@ -20,3 +21,4 @@ print_hi('Tom')
 ```
 
 [bokeh_org]: https://bokeh.org
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
