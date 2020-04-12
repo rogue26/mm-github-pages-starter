@@ -1,6 +1,6 @@
 ---
 title: "How to create dynamic inputs with Bokeh server"
-date: 2020-04-12
+date: 2020-04-12T17:01:00-04:00
 categories:
   - blog
 tags:added name and description
