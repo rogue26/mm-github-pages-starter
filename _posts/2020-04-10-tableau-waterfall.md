@@ -1,6 +1,6 @@
 ---
-title: "Waterfall charts in Tableau""
-date: 2020-04-10T15:34:30-04:00
+title: "Waterfall charts in Tableau"
+date: 2021-07-19T15:34:30-04:00
 categories:
   - blog
 tags:
