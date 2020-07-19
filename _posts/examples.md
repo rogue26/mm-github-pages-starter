@@ -6,6 +6,21 @@ tags:
   - Post Formats
   - notice
 ---
+![alt text][example_image]
+
+> Only one thing is impossible for God: To find any sense in any copyright law on the planet.
+  
+> <cite><a href="http://www.brainyquote.com/quotes/quotes/m/marktwain163473.html">Mark Twain</a></cite>
+
+```python
+def print_hi(name):
+  print("Hi, {}".format(name))
+
+print_hi('Tom')
+
+# prints 'Hi, Tom' 
+```
+
 
 A notice displays information that explains nearby content. Often used to call attention to a particular detail.
 
@@ -66,3 +81,7 @@ Or you could skip the capture and stick with straight HTML.
   <h4>Message</h4>
   <p>A basic message.</p>
 </div>
+
+
+[bokeh_org]: https://bokeh.org
+[example_image]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
